@@ -2,7 +2,7 @@
 crawl facebook public post's information who likes, comments, shares
 the main method: 
 1. scrapy frame, to crawl post ID
-2. splash render JS page and 
+2. splash render JS page and simulate human's action
 3. facebook Graph API explorer
 
 **详细内容请见CSDN博客:<http://blog.csdn.net/chinwuforwork>**
@@ -139,4 +139,4 @@ this output is posts about information, likes, shares, and comments.
                         }, ...]
         }           
 ***
-some issues to send e-mail to chinwu16@126.com
+Some issues to send e-mail to chinwu16@126.com
